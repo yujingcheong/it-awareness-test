@@ -52,3 +52,7 @@ Thumbs.db
 phishing_sim.db
 campaigns/
 reports/
+
+# Local notes with credentials - never commit
+mypass.txt
+*.secret
